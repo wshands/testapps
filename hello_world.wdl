@@ -1,5 +1,6 @@
 version 1.0
 
+# a comment
 workflow helloworld {
     input {
       String greeting
